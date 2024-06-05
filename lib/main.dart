@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
     return BlocProvider(
       create: (context) => WeatherBlocBloc()..add(FetchWeather(selectedCity)),
       child: const MaterialApp(
+        title: 'asd',
         debugShowCheckedModeBanner: false,
         home: HomeScreen(),
       ),
