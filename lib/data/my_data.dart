@@ -1,4 +1,4 @@
-String apiKey = "8a1749e58be9f9a89ecf77cbab36a356";
+String apiKey = "YOUR_API_KEY";
 
 List<String> cities = [
     'Adana', 'Adıyaman', 'Afyonkarahisar', 'Ağrı', 'Amasya', 'Ankara', 'Antalya',
