@@ -1,7 +1,5 @@
 # weather_myapp_bloc
 
-Flutter BLoC pattern
-RESTful API
 * Flutter BLoC pattern
 * RESTful API
 
