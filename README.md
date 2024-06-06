@@ -4,7 +4,7 @@ Flutter BLoC pattern
 RESTful API
 
 ## APP
-<img src="screenshots/Weather App.gif" />
+<img src="screenshot/Weather App.gif" />
 
 ## Getting Started
 
