@@ -1,7 +1,7 @@
 # weather_myapp_bloc
 
-Flutter BLoC pattern
-RESTful API
+* Flutter BLoC pattern
+* RESTful API
 
 ## APP
 <img src="screenshot/weather_App.gif" />
