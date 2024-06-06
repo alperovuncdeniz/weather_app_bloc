@@ -1,6 +1,10 @@
 # weather_myapp_bloc
 
-A new Flutter project.
+Flutter BLoC pattern
+RESTful API
+
+## APP
+<img src="screenshots/Weather App.gif" />
 
 ## Getting Started
 
